@@ -12,7 +12,7 @@ import pandas as pd
 def clean_data():
 
     df = pd.read_csv("solicitudes_credito.csv", sep=";")
-
+    a=1
     #
     # Inserte su código aquí
     #
